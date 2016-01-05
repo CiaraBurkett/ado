@@ -19,7 +19,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  puts("Today's TODO List");
+  puts("TODO");
   puts("=================");
   printf("\u2022 Wash the dishes\n\u2022 Clean living room\n\u2022 Discard papers on kitchen table");
 
