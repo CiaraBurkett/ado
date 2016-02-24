@@ -18,10 +18,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void) {
-  puts("TODO");
-  puts("=================");
-  printf("\u2022 Wash the dishes\n\u2022 Clean living room\n\u2022 Discard papers on kitchen table");
+int main(int argc, char *argv[]) {
+  /* puts("TODO"); */
+  /* puts("================="); */
+  /* printf("\u2022 Wash the dishes\n\u2022 Clean living room\n\u2022 Discard papers on kitchen table"); */
 
   return 0;
 }
